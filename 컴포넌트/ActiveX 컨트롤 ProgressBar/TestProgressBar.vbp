@@ -1,0 +1,37 @@
+Type=Exe
+Form=frmTestProgressBar.frm
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\..\WINDOWS\system32\STDOLE2.TLB#OLE Automation
+Object={41B13205-A4B6-11D2-B62F-CA2D20F8BAA3}#5.0#0; ProgressBar.ocx
+IconForm="frmTestProgressBar"
+Startup="frmTestProgressBar"
+HelpFile=""
+Title="TestProgressBar"
+ExeName32="TestProgressBar.exe"
+Path32="..\..\..\..\비CCEF~1\책소스~1\컴포넌트\ACTIVE~4"
+Command32=""
+Name="TestProgressBar"
+HelpContextID="0"
+CompatibleMode="0"
+MajorVer=1
+MinorVer=0
+RevisionVer=0
+AutoIncrementVer=0
+ServerSupportFiles=0
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=0
+CodeViewDebugInfo=0
+NoAliasing=0
+BoundsCheck=0
+OverflowCheck=0
+FlPointCheck=0
+FDIVCheck=0
+UnroundedFP=0
+StartMode=0
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+
+[MS Transaction Server]
+AutoRefresh=1
